@@ -5,4 +5,4 @@ Tötet die Bestien und bringt mir so viel wie möglich meiner Ausrüstung zurüc
 ## Belohnung
 100 Gold
 
-<span style="color:blue">OFFEN!</span>
+- [ ] **Erledigt**
