@@ -1,3 +1,5 @@
+# [Erbschaftsbrief](Erbschaftsbrief.md)
+
 An die rechtmäßigen Erben,
 
 im Namen des Hauses (Tinte verwischt) und unter dem Siegel des Königs sei euch dieses Schreiben überbracht.
