@@ -4,7 +4,6 @@ Eisenhütte ist eine kleinere Stadt in [Kharotai](Kiribati/Länder/Kharotai/Khar
 Die ortsansässige Bevölkerung ist schlicht, genügsam und freundlich, jedoch besorgt wegen des Krieges.
 
 ## Government Buildings
-___
 Ratshaus, Haus des Minenvorstehers
 ## Underworld Activities
 ___
