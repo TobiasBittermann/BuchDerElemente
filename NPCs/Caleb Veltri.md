@@ -1,7 +1,7 @@
 
 ## Aussehen
 ____
-![](attachments/Caleb%20Veltri.jpg)
+![](../attachments/Caleb%20Veltri.jpg)
 ## Beziehungen zu anderen Charakteren
 ____
 
