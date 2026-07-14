@@ -1,5 +1,6 @@
 # [Skooma](Skooma.md)
 
+![](../attachments/Skooma.jpg)
 > **Skooma** ist eine hochpotente alchemistische Droge, die kurzfristig enorme Kräfte verleiht, aber schnell abhängig macht.
 
 | Seltenheit | Typ                         | Legalität |
