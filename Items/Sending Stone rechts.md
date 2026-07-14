@@ -1,3 +1,3 @@
 Ein Stein, der wie ein Funkgerät funktioniert. Wird in ihn hineingesprochen kann der Träger des [Sending Stone links](Spieler/Autaro/Items/Sending%20Stone%20links.md) hören was gesagt wurde.
 
-![[Sending Stone.jpeg]]
+![](../attachments/Sending%20Stone.jpeg)
