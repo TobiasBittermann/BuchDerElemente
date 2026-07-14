@@ -39,7 +39,7 @@ Der Legende nach vereinte der ursprüngliche Träger ganze Königreiche allein d
 ## Bekannte Besitzer
 - Der vergessene König
 - Der namenlose Zombie in der Höhle
-- [Quinn](Spieler/Quinn/Quinn.md)
+- [Quinn](Spieler/Quinn.md)
 
 ## Fundorte
 - Verlassene Höhle (auf dem Kopf eines Zombies)
