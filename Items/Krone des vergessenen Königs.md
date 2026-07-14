@@ -10,7 +10,7 @@ Wundersamer Gegenstand (Krone)
 Ja
 
 ## Beschreibung
-![](attachments/Krone%20des%20vergessenen%20Königs.jpeg)
+![](../attachments/Krone%20des%20vergessenen%20Königs.jpeg)
 
 Diese kunstvoll gefertigte goldene Krone gehörte einst einem außergewöhnlich charismatischen König, dessen Name längst in Vergessenheit geraten ist. Die filigranen Verzierungen zeigen Lorbeerzweige und stilisierte Sonnenstrahlen, in deren Mitte mehrere inzwischen leicht matt gewordene Edelsteine eingelassen sind.
 
