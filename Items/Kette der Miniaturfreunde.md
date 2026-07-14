@@ -1,6 +1,6 @@
 # [Kette der Miniaturfreunde](Kette%20der%20Miniaturfreunde.md)
 
-
+![](../attachments/Kette%20der%20Miniaturfreunde.png)
 ## Seltenheit
 Sehr selten
 ## Wert
