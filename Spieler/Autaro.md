@@ -1,6 +1,4 @@
 # Autaro
-## Aussehen
-
 ## Rasse
 Hochelf
 

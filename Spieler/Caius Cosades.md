@@ -1,6 +1,4 @@
 # Caius Cosades
-
-## Aussehen
 ![](../attachments/Caius%20Cosades.png)
 
 ## Rasse

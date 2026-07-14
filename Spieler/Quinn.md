@@ -1,6 +1,4 @@
 # Quinn
-
-## Aussehen
 ![](../attachments/Quinn.png)
 
 ## Rasse

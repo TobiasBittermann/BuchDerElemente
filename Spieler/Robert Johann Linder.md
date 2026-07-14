@@ -1,6 +1,4 @@
 # Rober Johann Linder
-
-## Aussehen
 ## Rasse
 ## Klasse
 ## Gesinnung
