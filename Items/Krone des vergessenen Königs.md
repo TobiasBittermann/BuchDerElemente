@@ -14,7 +14,7 @@ Ja
 
 Diese kunstvoll gefertigte goldene Krone gehörte einst einem außergewöhnlich charismatischen König, dessen Name längst in Vergessenheit geraten ist. Die filigranen Verzierungen zeigen Lorbeerzweige und stilisierte Sonnenstrahlen, in deren Mitte mehrere inzwischen leicht matt gewordene Edelsteine eingelassen sind.
 
-[Quinn](Spieler/Quinn/Quinn.md) fand die Krone auf dem Kopf eines Zombies, als die Gruppe eine verlassene Höhle erkundete.
+ [Quinn](../Spieler/Quinn.md) fand die Krone auf dem Kopf eines Zombies, als die Gruppe eine verlassene Höhle erkundete.
 
 ## Magische Eigenschaften
 Während du diese Krone trägst und attuned bist:
