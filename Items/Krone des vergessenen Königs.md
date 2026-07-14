@@ -3,6 +3,8 @@
 ![](../attachments/Krone%20des%20vergessenen%20Königs.jpeg)
 ## Seltenheit
 Sehr selten
+## Wert
+unbekannt
 ## Typ
 Wundersamer Gegenstand (Krone)
 ## Attunement

@@ -3,6 +3,8 @@
 ![](../attachments/Kopfweh%20Kugel.jpeg)
 ## Seltenheit
 Sehr selten
+## Wert
+unbekannt
 ## Typ
 Wundersamer Gegenstand (Orb)
 ## Attunement
