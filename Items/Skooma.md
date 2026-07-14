@@ -1,129 +1,65 @@
----
-type: item
----
-## Seltenheit
-___
-Ungewöhnlich (Illegal)
+> **Skooma** ist eine hochpotente alchemistische Droge, die kurzfristig enorme Kräfte verleiht, aber schnell abhängig macht.
 
-## Typ
-___
-Konsumierbares Rauschmittel
+| Seltenheit | Typ                         | Legalität |
+| ---------- | --------------------------- | --------- |
+| Rare       | Konsumierbares Rauschmittel | Illegal   |
 
-## Wirkung
-___
-Skooma ist eine hochpotente alchemistische Substanz, die kurzfristig enorme Kräfte verleiht, aber schnell abhängig macht.
 
-## Verwendung
-___
-  ### 1. Schlucken (Süchtige)
+## Konsum
 
-**Dauer:** 10 Minuten
-**Effekte:** 
-- Vorteil auf Angriffsrollen ODER Rettungswürfe (beim Konsum wählen) 
-- +2 auf Schadenswürfe 
-- +10 feet Bewegungsgeschwindigkeit 
-- Advantage auf Initiative
+| Nutzer            | Konsum    | Dauer   | Buffs                                                                                                                              | Nachteile                                                                                                                |
+| ----------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Nicht süchtig** | Schlucken | 60 Min. | Vorteil auf **Angriff** **ODER** **Rettungswürfe** (beim Konsum wählen)<br>+2 Schaden<br>+10 ft Bewegung<br>Vorteil auf Initiative | **CON SG 13**<br>Erfolg: normale Wirkung<br>Fehlschlag: 1 Stunde **Vergiftet**, Nachteil auf alle Würfe, Halluzinationen |
+| **Nicht süchtig** | Rauchen   | Sofort  | Keine                                                                                                                              | CON SG 13 oder 10 Minuten Halluzinationen. Kann abhängig machen (SL).                                                    |
+| **Süchtig**       | Schlucken | 10 Min. | Vorteil auf **Angriff** **ODER** **Rettungswürfe**<br>+2 Schaden<br>+10 ft Bewegung<br>Vorteil auf Initiative                      | Nach Ablauf: **CON SG 13**<br>Erfolg: 2 Stunden **Stumm**<br>Fehlschlag: zusätzlich **1 Stufe Erschöpfung**              |
+| **Süchtig**       | Rauchen   | Sofort  | Entfernt **1 Stufe Erschöpfung** (max. 1×/Tag)                                                                                     | Keine Kampfbuffs. Setzt den Entzug zurück.                                                                               |
 
-**Nebenwirkung (nach Ablauf):** 
-- CON Save DC 13
-- +1 DC für jeden Tag der Nutzung (-1 nach 24h ohne Konsum bis Minimum 13)
-- 2h stumm (silenced)
-- Fehlschlag: 1 Stufe Erschöpfung
 
-------------------------------------------------------------------------
-### 2. Rauchen (Süchtige -- Stabilisierung)
+## Kampfrausch
 
-**Effekte:** 
-- Entfernt 1 Stufe Erschöpfung (max. 1/Tag) 
-- Kein Kampfbuff
+| Effekt | Beschreibung |
+|---------|--------------|
+| Initiative | Vorteil |
+| Bonusaktion | 1× pro Kampf: zusätzlicher Angriff **oder** Dash |
+| Wahrnehmung | Nachteil auf Perception & Insight |
+| Kontrollverlust | Natürliche 1 auf Angriff → 1d6 Selbstschaden |
 
-Zählt als Konsum für Sucht.
 
-------------------------------------------------------------------------
+## Entzug
 
-### 3. Konsum (Nicht-Süchtige)
+| Zeitpunkt | Rettungswurf | Fehlschlag |
+|------------|--------------|------------|
+| 24h ohne Konsum | CON SG 12 (+1 pro weiterem Tag) | 1 Stufe Erschöpfung |
 
-**CON Save DC 13**
 
-**Erfolg:** 
-- Vorteil auf einen Wurf nach Wahl innerhalb 1 Stunde
+## Langzeitfolgen
 
-**Fehlschlag:** 
-- Zustand: Vergiftet (1 Stunde) 
-- Nachteil auf alle Würfe 
-- Halluzinationen
+Nach jeweils **10 konsumierten Dosen** würfle **1W6**.
 
-Jeder weitere Konsum: DC +2
-
-Bei 3 Fehlschlägen → Abhängigkeit
-
-------------------------------------------------------------------------
-
-## Kampf-Effekte (Rausch)
-
-Während des Rausches:
--   Vorteil auf Initiative
--   1x pro Kampf Bonusaktion: Extra Angriff oder Dash
--   Nachteil auf WIS (Perception, Insight)
--   Nat 1 → 1d6 Selbstschaden
-
-------------------------------------------------------------------------
-
-## Abhängigkeit
-
-### Entzug (24h ohne Konsum)
-
-CON Save DC 12 (+2 pro weiterem Tag)
-
-**Fehlschlag**: 
-- 1 Stufe Erschöpfung
-
-------------------------------------------------------------------------
-
-## Langzeitfolgen (Optional)
-
-Nach 10 Dosen: 1d6
-
-| Wurf | Effekt                   |
-| ---- | ------------------------ |
-| 1    | -1 CON permanent         |
-| 2    | -1 WIS permanent         |
-| 3    | Keine Long Rest Vorteile |
-| 4    | Paranoia                 |
-| 5    | DA auf Stealth           |
-| 6    | Keine Auswirkung         |
+| W6 | Folge |
+|:--:|-------|
+| 1 | Permanentes -1 CON |
+| 2 | Permanentes -1 WIS |
+| 3 | Keine Vorteile eines Long Rest bis 24h clean |
+| 4 | Paranoia |
+| 5 | Nachteil auf Stealth |
+| 6 | Keine Auswirkungen |
 
 
 ## Preis & Verfügbarkeit
-___
--   Straßenpreis: 25 -100 Gold pro Dosis
--   Illegal in den meisten Reichen
--   Oft über Schwarzmärkte erhältlich
 
-------------------------------------------------------------------------
+| Preis | Verfügbarkeit |
+|--------|---------------|
+| 25–100 GP pro Dosis | Meist nur über Schwarzmärkte erhältlich |
 
-## Reines Skooma (Legendär, Optional)
 
--   Kein Exhaustion
--   Dauer: 20 Minuten
--   Alle Buffs verdoppelt
--   Extrem selten
+## Reines Skooma *(Legendär)*
 
-------------------------------------------------------------------------
+Reines Skooma ist zu stark für Nicht-Süchtige. Nicht-Süchtige sterben beim Versuch reines Skooma zu konsumieren.
 
-  
-
-## Rollenspiel-Hinweise
-
-### Im Rausch
-
--   Überheblichkeit
--   Risikofreude
--   Schnelle Sprache
-
-### Im Entzug
-
--   Zittern
--   Reizbarkeit
--   Schlaflosigkeit
--   Paranoia
+| Effekt         | Beschreibung          |
+| -------------- | --------------------- |
+| Dauer          | 20 Minuten            |
+| Nebenwirkungen | Keine Erschöpfung     |
+| Buffs          | Alle Buffs verdoppelt |
+| Seltenheit     | Extrem selten         |
