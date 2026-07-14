@@ -30,7 +30,7 @@ Ursprünglich wurde sie dafür erschaffen, gefährliche Kreaturen wie Minotauren
 Die Kette kann nicht freiwillig von der Kreatur entfernt werden, die sie trägt.
 ## Aufladungen
 Keine.
-## Fluch (optional)
+## Fluch
 
 ### Magische Bindung
 Die Kette wurde erschaffen, um Schutz zu gewährleisten. Diese Schutzmagie kann jedoch nicht zwischen verschiedenen Situationen unterscheiden.
