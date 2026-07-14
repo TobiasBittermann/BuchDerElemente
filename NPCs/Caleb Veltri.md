@@ -8,4 +8,4 @@
 ## Infos
 Caleb ist ein anfang 20 jähriger Tuchhändler am Beginn seiner Karriere. Er ist offen und ehrlich und hat ein gewisses Talent als Händler.
 ## Questgeber
-[[Wüstenviecher töten]]
+[Wüstenviecher töten](../Quests/Wüstenviecher%20töten.md)
