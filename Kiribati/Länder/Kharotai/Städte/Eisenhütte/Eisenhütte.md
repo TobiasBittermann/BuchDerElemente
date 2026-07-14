@@ -1,6 +1,6 @@
 # [Eisenhütte](Eisenhütte.md)
 ## Beschreibung
-**Eisenhütte** ist eine kleine Bergbaustadt im Königreich [Kharotai](Kiribati/Länder/Kharotai/Kharotai.md), die vor etwa **120 Jahren** nach der Entdeckung einer außergewöhnlich ergiebigen Eisenerzader gegründet wurde.
+**Eisenhütte** ist eine kleine Bergbaustadt im Königreich [Kharotai](../../Kharotai.md), die vor etwa **120 Jahren** nach der Entdeckung einer außergewöhnlich ergiebigen Eisenerzader gegründet wurde.
 
 Heute leben rund **180 Einwohner** in der Stadt. Obwohl Eisenhütte klein ist, gilt ihr Eisen unter Schmieden und Händlern als eines der hochwertigsten des Königreichs. Außerhalb dieser Kreise kennt jedoch kaum jemand den Namen der Stadt.
 
