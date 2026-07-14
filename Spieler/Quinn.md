@@ -1,8 +1,8 @@
+# Quinn
+
 ## Aussehen
 ![](../attachments/Quinn.png)
 
-## Name
-Quinn
 ## Rasse
 Human
 ## Klasse

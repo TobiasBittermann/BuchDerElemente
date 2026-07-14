@@ -1,8 +1,8 @@
+# Caius Cosades
+
 ## Aussehen
 ![](../attachments/Caius%20Cosades.png)
 
-## Name
-Caius Cosades
 ## Rasse
 Mensch
 ## Klasse
