@@ -65,7 +65,7 @@ Gegen außergewöhnliche Gefahren aus den Tiefen der Minen werden regelmäßig e
 ## Soziale Treffpunkte
 ___
 
-### Rosys Gasthof „[Zum ersten Hammer](Kiribati/Länder/Kharotai/Städte/Eisenhütte/Zum%20ersten%20Hammer/Zum%20ersten%20Hammer.md)“
+### Rosys Gasthof „[Zum ersten Hammer](Zum%20ersten%20Hammer.md)“
 
 Der wichtigste Treffpunkt der Stadt.
 Hier kehren Bergleute nach ihrer Schicht ein, Händler schließen Geschäfte ab und Reisende finden Unterkunft.
