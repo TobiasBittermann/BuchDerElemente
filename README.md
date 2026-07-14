@@ -1,6 +1,6 @@
 # Das Buch der Elemente
 
-**Nächste Session: **
+**Nächste Session:**
 
 
 
