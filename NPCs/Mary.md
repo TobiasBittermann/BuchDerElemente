@@ -1,6 +1,6 @@
 # [Mary](Kiribati/Länder/Kharotai/Städte/Eisenhütte/Händler/Mary.md)
 
-![](attachments/alchemist_mary.jpg)
+![](../attachments/alchemist_mary.jpg)
 ## Beruf
 Trankbrauerin und Alchemistin
 ## Wohnort
