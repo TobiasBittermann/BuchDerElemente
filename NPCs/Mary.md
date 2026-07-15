@@ -4,7 +4,7 @@
 ## Beruf
 Trankbrauerin und Alchemistin
 ## Wohnort
-[Eisenhütte](Kiribati/Länder/Kharotai/Städte/Eisenhütte/Eisenhütte.md)
+[Eisenhütte](../Kiribati/Länder/Kharotai/Städte/Eisenhütte/Eisenhütte.md)
 ## Rasse
 Mensch
 ## Alter
