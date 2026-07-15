@@ -4,3 +4,6 @@
 #System files
 .trash/
 .DS_Store
+
+#Folders
+DM/
