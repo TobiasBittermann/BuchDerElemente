@@ -16,9 +16,7 @@ Vertrauter des Dorfes
 ## Persönlichkeit
 Matthäus ist ein ruhiger und gelassener Mann, der immer ein offenes Ohr für die Bewohner und Gäste von [Eisenhütte](../Kiribati/Länder/Kharotai/Städte/Eisenhütte/Eisenhütte.md) hat.
 ## Äußeres
-Beschreibung von Kleidung, Aussehen und besonderen Merkmalen.
 ## Hintergrund
-
 ## Wissen
 ## Dienstleistungen
 Kann heilen und nimmt die Beichte ab
