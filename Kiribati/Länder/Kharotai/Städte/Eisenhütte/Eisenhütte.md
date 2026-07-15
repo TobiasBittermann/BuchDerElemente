@@ -29,7 +29,7 @@ Eisenhütte wird nicht von einem Bürgermeister regiert, sondern von einem Rat, 
 
 - **Rosy** – Wirtin des Gasthauses *Zum ersten Hammer*
 - **Haldor Steinfaust** – Schmiedemeister
-- **Vater Matthäus Eichenborn** [Matthäus](../../../../../NPCs/Matthäus.md) – Priester
+- **Vater Matthäus Eichenborn** [Matthäus Eichenborn](../../../../../NPCs/Matthäus%20Eichenborn.md) – Priester
 - **Torvin Hammerfeld** – Minenvorsteher
 - [Arvid Falkenhand](../../../../../NPCs/Arvid%20Falkenhand.md) – Sheriff
 
@@ -42,7 +42,7 @@ In Eisenhütte kennt beinahe jeder jeden. Verbrechen sind selten und bleiben mei
 Die große christliche Kirche bildet das geistliche Zentrum der Stadt.
 Sie ist nicht nur Ort des Gebets, sondern auch Versammlungsort, Zuflucht und Mittelpunkt des gesellschaftlichen Lebens.
 Der Glockenturm ist schon von weitem sichtbar und dient Reisenden oft als Orientierung.
-Der geistliche Vorsteher ist Vater [Matthäus](../../../../../NPCs/Matthäus.md), der seit vielen Jahren als Seelsorger, Berater und Vermittler des Rates dient.
+Der geistliche Vorsteher ist Vater [Matthäus Eichenborn](../../../../../NPCs/Matthäus%20Eichenborn.md), der seit vielen Jahren als Seelsorger, Berater und Vermittler des Rates dient.
 ## Ressourcen
 - Hochwertiges Eisenerz
 - Silbererz
