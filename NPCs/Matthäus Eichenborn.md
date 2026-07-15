@@ -1,6 +1,6 @@
 # [Matthäus Eichenborn](Matthäus%20Eichenborn.md)
 
-
+![](../attachments/Matthäus%20Eichenborn.jpg)
 ## Beruf
 Prister
 ## Wohnort
