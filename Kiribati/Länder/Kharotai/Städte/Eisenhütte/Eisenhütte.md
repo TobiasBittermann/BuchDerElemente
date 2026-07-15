@@ -11,25 +11,22 @@ Die Bewohner nennen sich stolz die **„Kinder der ersten Hämmer“** – Nachf
 Die Stadt besitzt reiche Vorkommen an Eisen- und Silbererz. Lebensmittel, Stoffe, Gewürze und andere Waren werden größtenteils durch Handel beschafft.
 
 Die Minen selbst gelten als außergewöhnlich sicher. Einstürze sind selten, da Generationen von Bergleuten die Stollen sorgfältig ausgebaut und instand gehalten haben. Die größte Gefahr entsteht, wenn neue Schächte uralte Höhlensysteme freilegen. Zwar sind die Bergleute bewaffnet und wehrhaft, doch wenn eine Bedrohung ihre Fähigkeiten übersteigt, engagiert der Rat ohne Zögern erfahrene Abenteurer. Eisenhütte ist dafür bekannt, solche Dienste großzügig zu entlohnen.
-
 ## Geschichte
 Vor etwa 120 Jahren entdeckten einige Bergleute eine außergewöhnlich reiche Eisenerzader in den Hügeln Kharotais. Aus ihrem provisorischen Lager entstand nach und nach eine dauerhafte Siedlung.
 
 Die Familien der Gründer leben noch heute in Eisenhütte. Ihre Nachfahren nennen sich stolz die **Kinder der ersten Hämmer** und sehen sich als Hüter der Traditionen ihrer Vorfahren.
 
 Der Ort wuchs niemals zu einer großen Handelsstadt heran. Stattdessen entwickelte sich Eisenhütte zu einer kleinen, wohlhabenden Gemeinschaft, deren Ruf allein auf der Qualität ihres Eisens beruht.
-
 ## Regierungsgebäude
 - Ratshaus
 - Haus des Minenvorstehers
 
 Eisenhütte wird nicht von einem Bürgermeister regiert, sondern von einem Rat, dessen Mitglieder die wichtigsten Bereiche des Dorflebens vertreten.
-
 ### Ratsmitglieder
 
-- **Rosy** – Wirtin des Gasthauses *Zum ersten Hammer*
+- **[Rosy](../../../../../NPCs/Rosy.md)** – Wirtin des Gasthauses *Zum ersten Hammer*
 - **Haldor Steinfaust** – Schmiedemeister
-- **Vater Matthäus Eichenborn** [Matthäus Eichenborn](../../../../../NPCs/Matthäus%20Eichenborn.md) – Priester
+- **Vater [Matthäus Eichenborn](../../../../../NPCs/Matthäus%20Eichenborn.md)**  – Priester
 - **Torvin Hammerfeld** – Minenvorsteher
 - [Arvid Falkenhand](../../../../../NPCs/Arvid%20Falkenhand.md) – Sheriff
 
@@ -48,19 +45,16 @@ Der geistliche Vorsteher ist Vater [Matthäus Eichenborn](../../../../../NPCs/Ma
 - Silbererz
 
 Die außergewöhnliche Qualität des Eisens begründet den Wohlstand der Stadt und ihren Ruf unter Schmieden im gesamten Königreich.
-
 ## Verteidigungsanlagen
 Die Verteidigung der Stadt obliegt [Arvid Falkenhand](../../../../../NPCs/Arvid%20Falkenhand.md) und einer kleinen Dorfwache.
 Im Ernstfall greifen nahezu alle erwachsenen Bergleute zu den Waffen. Viele sind geübt im Umgang mit Axt, Speer oder Bogen und verteidigen ihre Heimat entschlossen.
 Gegen außergewöhnliche Gefahren aus den Tiefen der Minen werden regelmäßig erfahrene Abenteurer oder Monsterjäger angeheuert.
-
 ## Soziale Treffpunkte
 ### Rosys Gasthof „[Zum ersten Hammer](Zum%20ersten%20Hammer.md)“
 
 Der wichtigste Treffpunkt der Stadt.
 Hier kehren Bergleute nach ihrer Schicht ein, Händler schließen Geschäfte ab und Reisende finden Unterkunft.
 Rosy kennt beinahe jeden Bewohner der Stadt und gilt als eine der einflussreichsten Persönlichkeiten Eisenhüttes.
-
 ## Wahrzeichen
 ### Amboss der Gründer
 
@@ -71,7 +65,6 @@ In den Stein ist eingraviert:
 > **„Aus Stein geboren. Durch Hammer geeint.“**
 
 Viele Bergleute legen vor ihrer Schicht ihren Hammer auf den Amboss und sprechen ein kurzes Gebet, bevor sie in die Mine einfahren.
-
 ## Traditionen
 ### Fest der ersten Hämmer
 
@@ -97,7 +90,6 @@ Traditionelle Wettbewerbe sind:
 
 Am Abend versammeln sich alle Einwohner an langen Tafeln auf dem Dorfplatz. Jeder bringt Speisen und Getränke mit; niemand bezahlt.
 Kurz vor Sonnenuntergang schlägt der älteste noch lebende Bergmann einmal auf den Amboss der Gründer. Mit dem zwölften Glockenschlag der Kirche endet das Fest.
-
 ### Die schweigenden Hämmer
 
 Verstirbt ein Bergmann, wird sein Hammer nicht vererbt.
@@ -113,7 +105,6 @@ Bei jeder Beerdigung spricht Vater Matthäus:
 > **„Sein Hammer schweigt, doch seine Arbeit trägt uns weiter.“**
 
 Nach über 120 Jahren bedecken Hunderte alter Hämmer die Wände der Kirche und erinnern an jene, die Eisenhütte aufgebaut haben.
-
 ## Wappen
 **Blasonierung:**
 
@@ -122,7 +113,6 @@ Nach über 120 Jahren bedecken Hunderte alter Hämmer die Wände der Kirche und 
 **Motto:**
 
 > **„Aus Stein geboren. Durch Hammer geeint.“**
-
 ### Bedeutung
 
 - **Silber** steht für Ehrlichkeit, Reinheit und die Silbervorkommen der Stadt.
