@@ -24,6 +24,7 @@ Jede Kreatur, die die Aura **zum ersten Mal betritt** oder ihren Zug **innerhalb
 Die Kreatur widersteht der Wirkung der Kugel und bleibt unbeeinträchtigt.
 
 **Fehlschlag:**  
+Das Movement der Kreatur halbiert sich. Dieser Effekt kann stacken. Entsteht ein halber Fuß Movement, wird abgerundet.
 Die Kreatur erhält zufällig eine der folgenden Conditions:
 
 |W8|Condition|
