@@ -25,7 +25,7 @@ Eisenhütte wird nicht von einem Bürgermeister regiert, sondern von einem Rat, 
 ### Ratsmitglieder
 
 - **[Rosy](../../../../../NPCs/Rosy.md)** – Wirtin des Gasthauses *Zum ersten Hammer*
-- **Haldor Steinfaust** – Schmiedemeister
+- **[Haldor Strick](../../../../../NPCs/Haldor%20Strick.md)** – Schmiedemeister
 - **Vater [Matthäus Eichenborn](../../../../../NPCs/Matthäus%20Eichenborn.md)**  – Priester
 - **Torvin Hammerfeld** – Minenvorsteher
 - [Arvid Falkenhand](../../../../../NPCs/Arvid%20Falkenhand.md) – Sheriff
