@@ -17,11 +17,11 @@ Er vermutet, dass sich die Räuber noch in der Umgebung von Eisenhütte aufhalte
 
 Die Räuber sollen nach Möglichkeit lebend festgenommen werden. Sollte dies nicht möglich sein, hat die Sicherheit der Gefangenen und Reisenden Vorrang.
 ## Ziele
-- [ ] Räuber vor der Stadt finden
-- [ ] Räuber festnehmen oder töten
-- [ ] Händler zurückbringen, wenn möglich lebend
-- [ ] [Arvid Falkenhand](../NPCs/Arvid%20Falkenhand.md) Bericht erstatten
-- [ ] Belohnung kassieren
+- [x] Räuber vor der Stadt finden
+- [x] Räuber festnehmen oder töten
+- [x] Händler zurückbringen, wenn möglich lebend
+- [x] [Arvid Falkenhand](../NPCs/Arvid%20Falkenhand.md) Bericht erstatten
+- [x] Belohnung kassieren
 ## Wichtige Personen
 
 
