@@ -1,7 +1,7 @@
 # [Räuberbande nahe der Stadt vertreiben](Räuberbande%20nahe%20der%20Stadt%20vertreiben.md)
 
 ## Status
-- Offen
+- Abgeschlossen
 ## Questgeber
 [Arvid Falkenhand](../NPCs/Arvid%20Falkenhand.md)
 ## Ort
