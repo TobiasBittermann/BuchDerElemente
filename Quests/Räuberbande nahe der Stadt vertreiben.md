@@ -1,7 +1,7 @@
 # [Räuberbande nahe der Stadt vertreiben](Räuberbande%20nahe%20der%20Stadt%20vertreiben.md)
 
 ## Status
-- Abgeschlossen
+- Aktiv
 ## Questgeber
 [Arvid Falkenhand](../NPCs/Arvid%20Falkenhand.md)
 ## Ort
@@ -21,12 +21,9 @@ Die Räuber sollen nach Möglichkeit lebend festgenommen werden. Sollte dies nic
 - [x] Räuber festnehmen oder töten
 - [x] Händler zurückbringen, wenn möglich lebend
 - [x] [Arvid Falkenhand](../NPCs/Arvid%20Falkenhand.md) Bericht erstatten
-- [x] Belohnung kassieren
-## Wichtige Personen
-
+- [ ] Belohnung kassieren
 
 ## Wichtige Orte
 - [Kharotai](../Kiribati/Länder/Kharotai/Kharotai.md)
 - [Eisenhütte](../Kiribati/Länder/Kharotai/Städte/Eisenhütte/Eisenhütte.md)
-## Hinweise
 ## Ausgang
