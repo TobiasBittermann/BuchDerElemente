@@ -1,6 +1,6 @@
 # Das Buch der Elemente
 
-**Nächste Session: 14.08.2026**
+**Nächste Session: tba**
 
 
 ## Die Story
